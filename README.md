@@ -1,2 +1,4 @@
-# Animated---Portfolio
-My personal animated portfolio created by taking inspiration from Lama Dev on YouTube.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
